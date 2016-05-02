@@ -1,4 +1,2 @@
 # tweetcol
-This is my first time I am usiong github.
-Really wonderful experience.
-I have edited this file.
+This repository contains how to collect tweets from twitter using tweepy python package.
